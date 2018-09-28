@@ -14,6 +14,7 @@
         android:background="@android:color/darker_gray"
         android:ems="10"
         android:hint="@string/text"
+        android:layout_gravity="left"
         android:inputType="number"
         android:textSize="36sp" />
 
